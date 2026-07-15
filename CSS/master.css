@@ -608,6 +608,20 @@ header nav .form i {
     margin-bottom: 30px;
 }
 
+@media (max-width:768px) {
+    .video .video-caption {
+        padding: 30px;
+    }
+
+    .video .video-caption h2 {
+        font-size: 17px;
+        margin-bottom: 12px;
+    }
+
+    .video .video-caption p {
+        margin-bottom: 12px;
+    }
+}
 .video .video-caption button {
     background-color: black;
     padding: 10px 20px;
